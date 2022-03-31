@@ -10,6 +10,10 @@ I used this project as a first endeavor to compilers. I learned an incredible am
 ```bash
 python main.py examples/fizzbuzz.lisp
 ```
+### Getting Bytecode from Jung
+```bash
+python main.py myfile.lisp -o mybytecode.s
+```
 
 ## Examples
 ### Iterative and Recursive Factorial
